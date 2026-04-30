@@ -7,7 +7,7 @@ const CONFIG = {
   brideNameAr: "اية",
 
   // تاريخ ووقت ومكان الزفاف
-  weddingDate: "May 10, 2026",
+  weddingDate: "June 10, 2026",
   weddingDateAr: "٢٨ يونيو ٢٠٢٦",
   weddingTime: "7 pm",
   weddingLocation: "Nile Hotel, . Sohag, Egypt",
